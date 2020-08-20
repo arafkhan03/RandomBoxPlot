@@ -1,5 +1,5 @@
 ---
-title: "Random Box Plot"
+title: "Random Box Plot | Please press Right-Arrow on your keyboard"
 author: "Araf"
 date: "8/20/2020"
 output: ioslides_presentation
