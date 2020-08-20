@@ -1,0 +1,27 @@
+---
+title: "Random Box Plot"
+author: "Araf"
+date: "8/20/2020"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Box Plot
+
+In descriptive statistics, a box plot or boxplot is a method for graphically depicting groups of numerical data through their quartiles. Box plots may also have lines extending from the boxes indicating variability outside the upper and lower quartiles, hence the terms box-and-whisker plot and box-and-whisker diagram. Wikipedia
+
+## Random Box-Plot
+
+This app takes input from the user regarding how many random numbers to generate. Input ranges between 5 and 3500 with an increment of 200. After clicking on the "Submit" button, a box-plot is generated.
+
+## Uses
+
+Such a visual can visually strengthen the concept of distribution with interactive inputs. This will help learners to grasp the concept of spread of data (variance) easily.
+
+## Thank You
+
+Thank you for your time.
+
